@@ -1,0 +1,16 @@
+body{
+    background-color:bisque ;
+}
+table,td{
+    border-color: bisque;
+    background-color: aliceblue;
+    font-size: 20px;
+    font-family:sans-serif ;
+    font-size: 20px;
+    font-family:sans-serif ;
+    padding: 15px;
+    border-radius: 20px;
+}
+table{
+    padding: 20px;
+}
